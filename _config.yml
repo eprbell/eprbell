@@ -32,6 +32,7 @@ github_username:  eprbell
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jemoji
 
 include:
   - _posts/
