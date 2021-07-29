@@ -21,7 +21,7 @@
 title: eprbell's blog
 email: eprbell0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog by a Silicon Valley engineer who quit his job to be an independent developer and investor.
+  A blog by a software engineer who quit a Silicon Valley job to become an independent developer and investor.
 #domain: eprbell.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://eprbell.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/eprbell/" # the subpath of your site, e.g. /blog
