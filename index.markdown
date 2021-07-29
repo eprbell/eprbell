@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      {{ moment().format('YYYY-MM-DD HH:m:s'); post.date }}
+      {{ post.date | date: "%B %e, %Y" }}
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
