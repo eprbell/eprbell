@@ -28,7 +28,7 @@ twitter_username: eprbell
 github_username:  eprbell
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
