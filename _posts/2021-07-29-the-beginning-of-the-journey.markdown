@@ -3,7 +3,7 @@ layout: post
 title:  "The Beginning Of The Journey"
 date:   2021-07-29 16:30:00 -0700
 categories: eprbell status
-tags: quantum computing bitcoin investing
+tags: quantum computing bitcoin investing career
 ---
 Welcome to my blog! My goal is to chronicle my journey from software engineer at a large Silicon Valley company to self-employed investor and software developer, including everything I learned along the way. I won't post much and I'll try to keep this blog as high-signal as I can.
 
