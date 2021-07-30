@@ -23,17 +23,24 @@
         <small>
           <table>
             <tr>
-              <td><a href="{{ site.url }}/{{ site.baseurl }}/index.html">blog</a></td>
-              <td><a href="{{ site.url }}/{{ site.baseurl }}/projects.html">projects</a></td>
-              <td><a href="{{ site.url }}/{{ site.baseurl }}/verification.html">verification</a></td>
-              <td><a href="{{ site.url }}/{{ site.baseurl }}/about.html">about</a></td>
+              <td><a href="../index.html">blog</a></td>
+              <td><a href="../projects.html">projects</a></td>
+              <td><a href="../verification.html">verification</a></td>
+              <td><a href="../about.html">about</a></td>
             </tr>
         </table>
         </small>
       </div>
 
       <div class="container">
-        <h1>{{ page.title }}</h1>
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+
+        <small>
+        Disclaimer: the contents of this blog are not investment advice.
+        </small>
       </div>
     </header>
 
