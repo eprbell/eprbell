@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+    <p>
     <article class="post">
 
       <small>{{ post.date | date: "%B %e, %Y" }}</small>
@@ -15,6 +16,6 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-    <p>
+    </p>
   {% endfor %}
 </div>
