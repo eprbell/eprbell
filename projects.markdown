@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: default
 title: Projects
 ---
 
-<a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a><p>
+<a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a>
