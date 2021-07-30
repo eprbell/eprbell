@@ -15,10 +15,7 @@ Some text Some text Some text Some text Some text Some textSome text Some text S
 Some text Some text Some text Some text Some text Some text
 Some text Some text Some text Some text Some text Some text
 Some text Some text Some text Some text Some text Some text
-Some text Some text Some text Some text Some text Some text
-Some text Some text Some text Some text Some text Some text
-Some text Some text Some text Some text Some text Some text
-Some text Some text Some text Some text Some text Some text
+
 Some text Some text Some text Some text SSome text Some text Some text Some text Some text Some text
 Some text Some text Some text Some text Some text Some text
 Some text Some text Some text Some text Some text Some text
