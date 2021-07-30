@@ -23,10 +23,10 @@
         <small>
           <table>
             <tr>
-              <td><a href="index.html">blog</a></td>
-              <td><a href="projects.html">projects</a></td>
-              <td><a href="verification.html">verification</a></td>
-              <td><a href="about.html">about</a></td>
+              <td><a href="{{ site.url }}/index.html">blog</a></td>
+              <td><a href="{{ site.url }}/projects.html">projects</a></td>
+              <td><a href="{{ site.url }}/verification.html">verification</a></td>
+              <td><a href="{{ site.url }}/about.html">about</a></td>
             </tr>
         </table>
         </small>
@@ -37,16 +37,20 @@
       </div>
     </header>
 
-    <small>{{ page.date | date: "%-d %B %Y" }}</small>
-    <h1>{{ page.title }}</h1>
+    <div class="container">
+      <section id="main_content">
+        <small>{{ page.date | date: "%-d %B %Y" }}</small>
+        <h1>{{ page.title }}</h1>
 
-    <p class="view">by {{ page.author | default: site.author }}</p>
+        <p class="view">by {{ page.author | default: site.author }}</p>
 
-    {{content}}
+        {{content}}
 
-    {% if page.tags %}
-      <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-    {% endif %}
+        {% if page.tags %}
+        <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+        {% endif %}
+      </section>
+    </div>
 
   </body>
 </html>
