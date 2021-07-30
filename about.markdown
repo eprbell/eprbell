@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 - Email: <a href="mailto:{{ site.twitter_username }}0@gmail.com">{{ site.twitter_username }}0@gmail.com</a>,
