@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+
+{% seo %}
+    <style>
+      th, td {
+        text-align: left;
+      }
+    </style>
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <small>
+          <table>
+            <tr>
+              <td><a href="index.html">blog</a></td>
+              <td><a href="projects.html">projects</a></td>
+              <td><a href="verification.html">verification</a></td>
+              <td><a href="about.html">about</a></td>
+            </tr>
+        </table>
+        </small>
+      </div>
+
+      <div class="container">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </header>
+
+    <small>{{ page.date | date: "%-d %B %Y" }}</small>
+    <h1>{{ page.title }}</h1>
+
+    <p class="view">by {{ page.author | default: site.author }}</p>
+
+    {{content}}
+
+    {% if page.tags %}
+      <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+    {% endif %}
+
+  </body>
+</html>
+---
+layout: default
+---
+
