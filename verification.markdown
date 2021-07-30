@@ -2,7 +2,7 @@
 layout: page
 title: verification
 ---
-You can verify cryptographically this is eprbell's real website via your Bitcoin wallet/node (or at https://tools.qz.sg), using the following inputs:
+You can verify cryptographically this is eprbell's real website via your Bitcoin wallet/node (or at <a href="https://tools.qz.sg">https://tools.qz.sg</a>), using the following inputs:
 
 <table>
 <tr><td><b>message</b></td><td>https://eprbell.github.io/eprbell/</td></tr>
