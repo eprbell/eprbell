@@ -23,7 +23,7 @@ author: eprbell
 email: eprbell0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   From Silicon Valley software engineer to independent developer and investor. Plus Quantum Computing, Bitcoin and Investing.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/eprbell/" # the subpath of your site, e.g. /blog
 url: "https://eprbell.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eprbell
 github_username:  eprbell
