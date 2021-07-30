@@ -19,15 +19,12 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <section id="contacts">
-            Contacts: <a href="mailto:{{ site.twitter_username }}0@gmail.com">E-mail</a>,
-            <a href="https://github.com/{{ site.twitter_username }}">Github</a>,
-            <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
-        </section>
-
-        <section id="projects">
-            Projects: <a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a>
-        </section>
+        <small>
+        Contacts: <a href="mailto:{{ site.twitter_username }}0@gmail.com">E-mail</a>,
+        <a href="https://github.com/{{ site.twitter_username }}">Github</a>,
+        <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a><br>
+        Projects: <a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a>
+        </small>
 
         <section id="downloads">
           {% if site.show_downloads %}
