@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: eprbell's projects
 ---
 
-- <a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a>
+- <a href="https://github.com/{{ site.twitter_username }}/RP2">RP2 Crypto Tax</a>: a privacy-focused, free, open-source cryptocurrency tax calculator. It can be extended via a programmable plugin architecture.
