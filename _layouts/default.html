@@ -19,6 +19,11 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
+        <section id="contacts">
+            Twitter: <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
+            E-mail: <a href="mailto:{{ site.twitter_username }}0@gmail.com">{{ site.twitter_username }}0@gmail.com</a>
+        </section>
+
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
