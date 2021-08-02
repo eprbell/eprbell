@@ -2,7 +2,7 @@
 layout: page
 title: verification
 ---
-You can verify cryptographically this is eprbell's official website via your Bitcoin wallet/node (or at <a href="https://tools.bitcoin.com/verify-message">https://tools.bitcoin.com/verify-message</a>), using the following inputs:
+You can verify cryptographically this is eprbell's official website via your Bitcoin wallet/node, using the following inputs:
 
 <table>
 <tr><td><i>Message:</i></td><td>https://eprbell.github.io/eprbell/</td></tr>
