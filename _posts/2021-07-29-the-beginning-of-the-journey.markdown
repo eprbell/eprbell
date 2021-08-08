@@ -16,9 +16,9 @@ But life goes on and I ended up moving to a different domain in the same company
 My plan was (still is) to delve into the following topics with full freedom to explore any creative ideas that came up in the process:
 - Quantum Computing: the intuition-defying features of this deeper, more fundamental computation paradigm set my mind on fire. Concepts like entanglement and superposition have no equivalent in our everyday experience, and yet they are the key to unlocking powerful performance improvements that are unattainable with classical computers.
 - Bitcoin: the invention of artificial, decentralized, digital scarcity is very profound and its potential impact on society could be large (and positive in my opinion). Plus I have always been interested in the technology Bitcoin was built on (cryptography and distributed systems).
-- Investing: while I have always been an investor, mostly in passive index funds, my knowledge of economics wasn't comprehensive. However, the study of Bitcoin made me want to dig deeper in this subject. In particular, I wanted to understand:
-  - how a non-inflatable monetary asset could redefine the notion of store of value, 
-  - how developing nations would be affected by the emergence of neutral, unconfiscatable money,
-  - how the traditional financial system would be challenged by a digital competitor that is based on hard, mathematical rules, decentralization and low-fee, instant, global transfers (thanks to layer 2 solutions like the Lightning Network).
+- Investing: while I have always been an investor, mostly in passive index funds, my knowledge of economics wasn't comprehensive. However, the study of Bitcoin made me want to dig deeper in this subject. In particular, I wanted to understand the following:
+  1. how a non-inflatable monetary asset could redefine the notion of store of value,
+  2. how developing nations would be affected by the emergence of neutral, unconfiscatable money,
+  3. how the traditional financial system would be challenged by a digital competitor that is based on hard, mathematical rules, decentralization and low-fee, instant, global transfers (thanks to layer 2 solutions like the Lightning Network).
 
-I will post on these topics in the coming months, including pointers to materials I have studied, software I wrote and interesting tidbits I learned. So far so good: I'm enjoying my studies thoroughly and I'm leaving time aside for other interests (cooking, hiking and more). Thanks for reading!
+I will post on these topics in the coming months, including pointers to materials I have studied, software I wrote, ideas and other interesting tidbits I learned. So far so good: I'm enjoying my studies thoroughly and I'm leaving time aside for other interests (cooking, hiking and more). Thanks for reading!
