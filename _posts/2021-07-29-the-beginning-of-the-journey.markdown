@@ -21,4 +21,4 @@ My plan was (still is) to delve into the following topics with full freedom to e
   2. how developing nations would be affected by the emergence of neutral, unconfiscatable money,
   3. how the traditional financial system would be challenged by a digital competitor that is based on hard, mathematical rules, decentralization and low-fee, instant, global transfers (thanks to layer 2 solutions like the Lightning Network).
 
-I will post on these topics in the coming months, including pointers to materials I have studied, software I wrote, ideas and other interesting tidbits I learned. So far so good: I'm enjoying my studies thoroughly and I'm leaving time aside for other interests (cooking, hiking and more). Thanks for reading!
+I will post on these topics in the coming months, including pointers to materials I have studied, software I wrote, ideas and other interesting tidbits I learned. Thanks for reading!
