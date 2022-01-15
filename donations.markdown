@@ -17,3 +17,4 @@ If you would like to support eprbell's open-source work, you can donate to one o
 <tr><td><i>Bitcoin:</i></td><td>34nw7bR4fL6BFLDJXcJP1ga4L6MWDzHAe5</td></tr>
 <tr><td><i>Ether:</i></td><td>0xcF4bf47d39f9D22C4EcE03C71677c052915C66EB</td></tr>
 </table>
+Thank you for helping independent, open-source software developers!
