@@ -15,5 +15,5 @@ eprbell is a former Silicon Valley software engineer who became a self-employed 
 If you would like to support eprbell's open-source work, you can donate to one of these crypto wallets:
 <table>
 <tr><td><i>Bitcoin:</i></td><td>34nw7bR4fL6BFLDJXcJP1ga4L6MWDzHAe5</td></tr>
-<tr><td><i>Ether:</i></td><td></td>0xcF4bf47d39f9D22C4EcE03C71677c052915C66EB</tr>
+<tr><td><i>Ether:</i></td><td>0xcF4bf47d39f9D22C4EcE03C71677c052915C66EB</td></tr>
 </table>
