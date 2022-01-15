@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about and donations
+title: about/donations
 ---
 
-<h2>About<h2>
+<h2>About</h2>
 eprbell is a former Silicon Valley software engineer who became a self-employed investor and independent developer, focusing on Quantum Computing and Bitcoin.
 
 <table>
@@ -11,7 +11,7 @@ eprbell is a former Silicon Valley software engineer who became a self-employed 
 <tr><td><i>Twitter:</i></td><td><a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></td></tr>
 </table>
 
-<h2>Donations<h2>
+<h2>Donations</h2>
 If you would like to support eprbell's open-source work, you can donate to one of these crypto wallets:
 <table>
 <tr><td><i>Bitcoin:</i></td><td>34nw7bR4fL6BFLDJXcJP1ga4L6MWDzHAe5</td></tr>
