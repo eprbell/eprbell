@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about/donations
+title: about
 ---
 
 <h2>About</h2>
