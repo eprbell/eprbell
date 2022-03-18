@@ -7,7 +7,7 @@ Released projects:
 * [DaLI Data Loader for RP2](https://github.com/eprbell/dali-rp2).
 
 If you'd like to support eprbell's work you can:
-* add a star to the above projects, or
+* add a star on Github to the above projects, or
 * [donate some crypto](https://eprbell.github.io/eprbell/about.html).
 
 Thanks!
