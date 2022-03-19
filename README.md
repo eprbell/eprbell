@@ -3,7 +3,7 @@
 Eprbell is an independent developer focusing on Bitcoin and dabbling in Quantum Computing. 
 
 Released projects:
-* [RP2 Crypto Tax Calculator](https://github.com/eprbell/rp2)
+* [RP2 Crypto Tax Calculator](https://github.com/eprbell/rp2),
 * [DaLI Data Loader for RP2](https://github.com/eprbell/dali-rp2).
 
 If you'd like to support eprbell's work you can:
