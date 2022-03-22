@@ -1,6 +1,6 @@
-### Eprbell's Github Page
+### eprbell's Github Page
 
-Eprbell is an independent developer focusing on Bitcoin and dabbling in Quantum Computing. 
+eprbell is an independent developer focusing on Bitcoin and dabbling in Quantum Computing. 
 
 Released projects:
 * [RP2 Crypto Tax Calculator](https://github.com/eprbell/rp2),
