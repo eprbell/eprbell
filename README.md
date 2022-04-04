@@ -6,7 +6,7 @@ I'm a former Silicon Valley software engineer who became a self-employed investo
 * [RP2](https://github.com/eprbell/rp2): privacy-focused, free, open-source crypto tax calculator
 * [DaLI](https://github.com/eprbell/dali-rp2): data loader for RP2
 
-### Articles and Posts
+### Articles
 * [Open-source, Privacy-focused Crypto Tax Software: a Call for Coders](https://dev.to/eprbell/rp2-open-source-crypto-tax-software-f20)
 
 ### Support
