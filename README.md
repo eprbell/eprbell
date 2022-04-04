@@ -2,7 +2,7 @@
 
 I'm a former Silicon Valley software engineer who became a self-employed investor and independent developer, currently focusing on Bitcoin and Quantum Computing.
 
-### Released Projects
+### Projects
 * [RP2](https://github.com/eprbell/rp2): privacy-focused, free, open-source crypto tax calculator
 * [DaLI](https://github.com/eprbell/dali-rp2): data loader for RP2
 
