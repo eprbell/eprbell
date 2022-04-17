@@ -14,6 +14,7 @@ I'm a former Silicon Valley software engineer who became a self-employed investo
 * donate some crypto:
   * Bitcoin: 34nw7bR4fL6BFLDJXcJP1ga4L6MWDzHAe5
   * Ether: 0xcF4bf47d39f9D22C4EcE03C71677c052915C66EB
+* [![Tweet about RP2](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20RP2,%20the%20privacy-focused,%20free,%20open%20source%20US%20crypto%20tax%20calculator&url=https://github.com/eprbell/rp2/?anything)
 
 Thanks for supporting independent, open-source developers!
 
