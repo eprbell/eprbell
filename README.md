@@ -1,6 +1,6 @@
 ## eprbell's Github Page 
 
-I'm a former Silicon Valley software engineer who became a self-employed investor and independent developer, currently focusing on Bitcoin and Quantum Computing.
+I'm a former Silicon Valley software engineer who became an independent developer, working on free and open-source projects. My current interests are Bitcoin and Quantum Computing.
 
 ### Projects
 * [RP2](https://github.com/eprbell/rp2): privacy-focused, free, open-source crypto tax calculator
