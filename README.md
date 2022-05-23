@@ -10,7 +10,7 @@ I'm a former Silicon Valley software engineer who became a self-employed investo
 * [Open-source, Privacy-focused Crypto Tax Software: a Call for Coders](https://dev.to/eprbell/rp2-open-source-crypto-tax-software-f20)
 
 ### Donations and Support
-* donate some crypto:
+* donate some crypto to help me continue my work on free, open-source, non-commercial projects:
   * Bitcoin: 34nw7bR4fL6BFLDJXcJP1ga4L6MWDzHAe5
   * Ether: 0xcF4bf47d39f9D22C4EcE03C71677c052915C66EB
 * add a star to [RP2](https://github.com/eprbell/rp2) and [DaLI](https://github.com/eprbell/dali-rp2)
